@@ -11,3 +11,6 @@ No diretório do projeto, você pode executar:
 
 Executa o aplicativo no modo de desenvolvimento. \
 Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
+
+##Api tmbd
+https://www.themoviedb.org/?language=pt-BR
